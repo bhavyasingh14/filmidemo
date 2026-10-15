@@ -3,133 +3,52 @@
   "startDate": "2026-10-15",
   "puzzles": [
     {
-      "id": "001",
-      "number": "001",
-      "date": "2026-10-15",
-      "title": "The opening show",
+      "id": "daily-2026-10-16",
+      "date": "2026-10-16",
+      "number": "002",
       "groups": [
         {
-          "id": "bhansali",
+          "id": "group-1",
           "difficulty": 1,
-          "name": "Movies directed by Sanjay Leela Bhansali",
+          "name": "Karan Johar Directorials",
           "items": [
-            {
-              "id": "hum-dil",
-              "title": "Hum Dil De Chuke Sanam",
-              "year": 1999,
-              "poster": "assets/daily-hum-dil.jpg"
-            },
-            {
-              "id": "guzaarish",
-              "title": "Guzaarish",
-              "year": 2010,
-              "poster": "assets/daily-guzaarish.jpg"
-            },
-            {
-              "id": "ram-leela",
-              "title": "Ram-Leela",
-              "year": 2013,
-              "poster": "assets/daily-ram-leela.jpg"
-            },
-            {
-              "id": "saawariya",
-              "title": "Saawariya",
-              "year": 2007,
-              "poster": "assets/daily-saawariya.jpg"
-            }
+            "Kabhi Khushi Kabhie Gham",
+            "Student of the Year",
+            "Kuch Kuch Hota Hai",
+            "Rocky aur Rani Kii Prem Kahani"
           ]
         },
         {
-          "id": "remakes",
+          "id": "group-2",
           "difficulty": 2,
-          "name": "Hindi remakes of South Indian films",
+          "name": "Bollywood Spy Thrillers",
           "items": [
-            {
-              "id": "tere-naam",
-              "title": "Tere Naam",
-              "year": 2003,
-              "poster": "assets/daily-tere-naam.jpg"
-            },
-            {
-              "id": "ghajini",
-              "title": "Ghajini",
-              "year": 2008,
-              "poster": "assets/daily-ghajini.jpg"
-            },
-            {
-              "id": "rowdy",
-              "title": "Rowdy Rathore",
-              "year": 2012,
-              "poster": "assets/daily-rowdy.jpg"
-            },
-            {
-              "id": "saathiya",
-              "title": "Saathiya",
-              "year": 2002,
-              "poster": "assets/daily-saathiya.jpg"
-            }
+            "Dhurandhar",
+            "Raazi",
+            "D-Day",
+            "Khufiya"
           ]
         },
         {
-          "id": "mute",
+          "id": "group-3",
           "difficulty": 3,
-          "name": "Movies with a mute character",
+          "name": "Indie Bands",
           "items": [
-            {
-              "id": "barfi",
-              "title": "Barfi!",
-              "year": 2012,
-              "poster": "assets/daily-barfi.jpg"
-            },
-            {
-              "id": "bajrangi",
-              "title": "Bajrangi Bhaijaan",
-              "year": 2015,
-              "poster": "assets/daily-bajrangi.jpg"
-            },
-            {
-              "id": "iqbal",
-              "title": "Iqbal",
-              "year": 2005,
-              "poster": "assets/daily-iqbal.jpg"
-            },
-            {
-              "id": "black",
-              "title": "Black",
-              "year": 2005,
-              "poster": "assets/daily-black.jpg"
-            }
+            "Silk Route",
+            "Euphoria",
+            "Indian Ocean",
+            "The Local Train"
           ]
         },
         {
-          "id": "debuts",
+          "id": "group-4",
           "difficulty": 4,
-          "name": "Feature directorial debuts in Hindi cinema",
+          "name": "Last Word of Raj and DK Directorials",
           "items": [
-            {
-              "id": "dabangg",
-              "title": "Dabangg",
-              "year": 2010,
-              "poster": "assets/daily-dabangg.jpg"
-            },
-            {
-              "id": "ek-main",
-              "title": "Ek Main Aur Ekk Tu",
-              "year": 2012,
-              "poster": "assets/daily-ek-main.jpg"
-            },
-            {
-              "id": "sulemani",
-              "title": "Sulemani Keeda",
-              "year": 2014,
-              "poster": "assets/daily-sulemani.jpg"
-            },
-            {
-              "id": "masaan",
-              "title": "Masaan",
-              "year": 2015,
-              "poster": "assets/daily-masaan.jpg"
-            }
+            "Ending",
+            "Gentleman",
+            "City",
+            "Gulaabs"
           ]
         }
       ]

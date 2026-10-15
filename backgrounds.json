@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "posters": [
+    {
+      "id": "sholay",
+      "src": "photos/sholay.jpg",
+      "alt": "Sholay cinema poster",
+      "source": "https://x.com/FHF_Official/status/1954039387911585897"
+    },
+    {
+      "id": "ddlj",
+      "src": "photos/ddlj.jpg",
+      "alt": "Dilwale Dulhania Le Jayenge cinema poster",
+      "source": "https://bollywoodirect.medium.com/22-years-of-dilwale-dulhania-le-jayenge-release-date-20-10-1995-e690a27141ec"
+    },
+    {
+      "id": "mughal-e-azam",
+      "src": "photos/mughal-e-azam.jpg",
+      "alt": "Mughal-e-Azam cinema poster",
+      "source": "https://www.mapinpub.com/products/indias-film-poster-heritage"
+    },
+    {
+      "id": "deewar-poster-ee5adda7",
+      "src": "photos/deewar-poster-ee5adda7.jpg",
+      "alt": "Deewar Poster",
+      "source": ""
+    },
+    {
+      "id": "hum-aapke-hai-kaun-poster-6ed81831",
+      "src": "photos/hum-aapke-hai-kaun-poster-6ed81831.jpg",
+      "alt": "Hum aapke hai kaun poster",
+      "source": ""
+    }
+  ],
+  "schedule": [
+    {
+      "date": "2026-10-16",
+      "left": "hum-aapke-hai-kaun-poster-6ed81831",
+      "right": "deewar-poster-ee5adda7"
+    }
+  ]
+}
