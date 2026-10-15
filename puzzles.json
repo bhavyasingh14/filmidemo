@@ -3,6 +3,122 @@
   "startDate": "2026-10-15",
   "puzzles": [
     {
+      "id": "001",
+      "number": "001",
+      "date": "2026-10-15",
+      "title": "The opening show",
+      "groups": [
+        {
+          "id": "bhansali",
+          "difficulty": 1,
+          "name": "Movies directed by Sanjay Leela Bhansali",
+          "items": [
+            {
+              "id": "hum-dil",
+              "title": "Hum Dil De Chuke Sanam",
+              "year": 1999
+            },
+            {
+              "id": "guzaarish",
+              "title": "Guzaarish",
+              "year": 2010
+            },
+            {
+              "id": "ram-leela",
+              "title": "Ram-Leela",
+              "year": 2013
+            },
+            {
+              "id": "saawariya",
+              "title": "Saawariya",
+              "year": 2007
+            }
+          ]
+        },
+        {
+          "id": "remakes",
+          "difficulty": 2,
+          "name": "Hindi remakes of South Indian films",
+          "items": [
+            {
+              "id": "tere-naam",
+              "title": "Tere Naam",
+              "year": 2003
+            },
+            {
+              "id": "ghajini",
+              "title": "Ghajini",
+              "year": 2008
+            },
+            {
+              "id": "rowdy",
+              "title": "Rowdy Rathore",
+              "year": 2012
+            },
+            {
+              "id": "saathiya",
+              "title": "Saathiya",
+              "year": 2002
+            }
+          ]
+        },
+        {
+          "id": "mute",
+          "difficulty": 3,
+          "name": "Movies with a mute character",
+          "items": [
+            {
+              "id": "barfi",
+              "title": "Barfi!",
+              "year": 2012
+            },
+            {
+              "id": "bajrangi",
+              "title": "Bajrangi Bhaijaan",
+              "year": 2015
+            },
+            {
+              "id": "iqbal",
+              "title": "Iqbal",
+              "year": 2005
+            },
+            {
+              "id": "black",
+              "title": "Black",
+              "year": 2005
+            }
+          ]
+        },
+        {
+          "id": "debuts",
+          "difficulty": 4,
+          "name": "Feature directorial debuts in Hindi cinema",
+          "items": [
+            {
+              "id": "dabangg",
+              "title": "Dabangg",
+              "year": 2010
+            },
+            {
+              "id": "ek-main",
+              "title": "Ek Main Aur Ekk Tu",
+              "year": 2012
+            },
+            {
+              "id": "sulemani",
+              "title": "Sulemani Keeda",
+              "year": 2014
+            },
+            {
+              "id": "masaan",
+              "title": "Masaan",
+              "year": 2015
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "daily-2026-10-16",
       "date": "2026-10-16",
       "number": "002",
