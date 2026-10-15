@@ -1,0 +1,138 @@
+[
+  {
+    "id": "hum-dil",
+    "title": "Hum Dil De Chuke Sanam",
+    "year": 1999,
+    "poster": "assets/daily-hum-dil.jpg",
+    "source": "https://en.wikipedia.org/wiki/Hum_Dil_De_Chuke_Sanam",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/2/2f/Hum_Dil_De_Chuke_Sanam.jpg"
+  },
+  {
+    "id": "guzaarish",
+    "title": "Guzaarish",
+    "year": 2010,
+    "poster": "assets/daily-guzaarish.jpg",
+    "source": "https://en.wikipedia.org/wiki/Guzaarish_(film)",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/8/81/Guzaarish_poster.jpg"
+  },
+  {
+    "id": "ram-leela",
+    "title": "Ram-Leela",
+    "year": 2013,
+    "poster": "assets/daily-ram-leela.jpg",
+    "source": "https://en.wikipedia.org/wiki/Goliyon_Ki_Raasleela_Ram-Leela",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/e/e9/Ramleela_poster.jpg"
+  },
+  {
+    "id": "saawariya",
+    "title": "Saawariya",
+    "year": 2007,
+    "poster": "assets/daily-saawariya.jpg",
+    "source": "https://en.wikipedia.org/wiki/Saawariya",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/5/5d/Saawariya_poster.jpg"
+  },
+  {
+    "id": "tere-naam",
+    "title": "Tere Naam",
+    "year": 2003,
+    "poster": "assets/daily-tere-naam.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tere_Naam",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/2/21/Tere_Naam_poster.jpg"
+  },
+  {
+    "id": "ghajini",
+    "title": "Ghajini",
+    "year": 2008,
+    "poster": "assets/daily-ghajini.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ghajini_(2008_film)",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/9/97/Ghajini_Hindi.jpg"
+  },
+  {
+    "id": "rowdy",
+    "title": "Rowdy Rathore",
+    "year": 2012,
+    "poster": "assets/daily-rowdy.jpg",
+    "source": "https://en.wikipedia.org/wiki/Rowdy_Rathore",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/3/3e/Rowdy_Rathore.jpg"
+  },
+  {
+    "id": "saathiya",
+    "title": "Saathiya",
+    "year": 2002,
+    "poster": "assets/daily-saathiya.jpg",
+    "source": "https://en.wikipedia.org/wiki/Saathiya_(film)",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/8/8d/Saathiya_film_poster.jpg"
+  },
+  {
+    "id": "barfi",
+    "title": "Barfi!",
+    "year": 2012,
+    "poster": "assets/daily-barfi.jpg",
+    "source": "https://en.wikipedia.org/wiki/Barfi!",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/2/2e/Barfi%21_poster.jpg"
+  },
+  {
+    "id": "bajrangi",
+    "title": "Bajrangi Bhaijaan",
+    "year": 2015,
+    "poster": "assets/daily-bajrangi.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bajrangi_Bhaijaan",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/d/dd/Bajrangi_Bhaijaan_Poster.jpg"
+  },
+  {
+    "id": "iqbal",
+    "title": "Iqbal",
+    "year": 2005,
+    "poster": "assets/daily-iqbal.jpg",
+    "source": "https://en.wikipedia.org/wiki/Iqbal_(film)",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/a/ad/Iqbal_poster.jpg"
+  },
+  {
+    "id": "black",
+    "title": "Black",
+    "year": 2005,
+    "poster": "assets/daily-black.jpg",
+    "source": "https://en.wikipedia.org/wiki/Black_(2005_film)",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/3/3c/Black_Film.jpg"
+  },
+  {
+    "id": "dabangg",
+    "title": "Dabangg",
+    "year": 2010,
+    "poster": "assets/daily-dabangg.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dabangg",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/7/73/Dabangg_poster.jpg"
+  },
+  {
+    "id": "ek-main",
+    "title": "Ek Main Aur Ekk Tu",
+    "year": 2012,
+    "poster": "assets/daily-ek-main.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ek_Main_Aur_Ekk_Tu",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/6/69/Ek_Main_Aur_Ekk_Tu.jpg"
+  },
+  {
+    "id": "newton",
+    "title": "Newton",
+    "year": 2017,
+    "poster": "assets/daily-newton.png",
+    "source": "https://en.wikipedia.org/wiki/Newton_(film)",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/6/68/Newton_%28film%29.png"
+  },
+  {
+    "id": "masaan",
+    "title": "Masaan",
+    "year": 2015,
+    "poster": "assets/daily-masaan.jpg",
+    "source": "https://en.wikipedia.org/wiki/Masaan",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/1/1c/Masaan_poster.jpg"
+  },
+  {
+    "id": "sulemani",
+    "title": "Sulemani Keeda",
+    "year": 2014,
+    "poster": "assets/daily-sulemani.jpg",
+    "source": "https://en.wikipedia.org/wiki/Sulemani_Keeda",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/en/0/0d/Sulemani_Keeda_-_Movie_Poster.jpg"
+  }
+]

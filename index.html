@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f5ed">
+  <meta name="description" content="Sixteen films. Four hidden connections. A little Bollywood puzzle for your every day.">
+  <title>Filmi Connections · Your daily picture puzzle</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="fonts.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <svg class="icon-sprite" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
+    <symbol id="i-reel" viewBox="0 0 32 32"><circle cx="16" cy="16" r="13"/><circle cx="16" cy="16" r="2"/><circle cx="16" cy="8" r="3"/><circle cx="8.5" cy="18.5" r="3"/><circle cx="23.5" cy="18.5" r="3"/><path d="M18 29h11"/></symbol>
+    <symbol id="i-shuffle" viewBox="0 0 24 24"><path d="M3 6h3c5 0 7 12 12 12h3m-4-4 4 4-4 4M3 18h3c2.5 0 4.5-3 6-6s3.5-6 6-6h3m-4-4 4 4-4 4"/></symbol>
+    <symbol id="i-stats" viewBox="0 0 24 24"><path d="M4 20V12h4v8m2 0V4h4v16m2 0V8h4v12"/></symbol>
+    <symbol id="i-calendar" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M7 3v4m10-4v4M3 11h18m-13 4h1m6 0h1m-8 3h1m6 0h1"/></symbol>
+    <symbol id="i-eye" viewBox="0 0 24 24"><path d="M2 12S6 5 12 5s10 7 10 7-4 7-10 7S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M4 12h16m-6-6 6 6-6 6"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+    <symbol id="i-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="13" rx="2"/><path d="M15 8V3H3v12h5"/></symbol>
+    <symbol id="i-star" viewBox="0 0 24 24"><path d="m12 2 2.2 7.8L22 12l-7.8 2.2L12 22l-2.2-7.8L2 12l7.8-2.2Z"/></symbol>
+  </defs></svg>
+  <a class="skip-link" href="#game">Skip to the puzzle</a>
+  <header class="masthead">
+    <a class="brand" href="./" aria-label="Filmi Connections home"><svg><use href="#i-reel"/></svg><span>THE FILMI<br><b>CONNECTION CLUB</b></span></a>
+    <span class="masthead-caption">FOR THE LOVE OF CINEMA</span>
+    <nav aria-label="Game navigation">
+      <button class="text-button how-button" data-open="rulesDialog">How to play <span class="question-mark">?</span></button>
+      <button class="icon-button" data-open="archiveDialog" aria-label="Puzzle archive" title="Puzzle archive"><svg><use href="#i-calendar"/></svg></button>
+      <button class="icon-button" data-open="statsDialog" aria-label="Your statistics" title="Your statistics"><svg><use href="#i-stats"/></svg></button>
+    </nav>
+  </header>
+
+  <main>
+    <div class="ambient-cinema" aria-hidden="true"><img class="ambient-poster ambient-left" src="assets/sholay.jpg" alt="" width="891" height="1200"><img class="ambient-poster ambient-right" src="assets/mughal-e-azam.jpg" alt="" width="741" height="1103"></div>
+    <section class="hero" aria-labelledby="pageTitle">
+      <div class="eyebrow"><span class="live-dot"></span> THE DAILY SHOW <span class="small-star">✳</span> ONE PUZZLE. MANY PLOT TWISTS.</div>
+      <div class="title-wrap"><h1 id="pageTitle">Filmi <em>Connections</em><span class="title-dot">.</span></h1><span class="handwritten hero-note">thoda filmi, thoda tricky.</span></div>
+      <p>Sixteen films. Four hidden connections.<br class="mobile-break"> Put your inner film buff to work.</p>
+    </section>
+
+    <div class="cinema-stage">
+      <aside class="margin-art left-art" aria-label="Vintage cinema poster wall">
+        <figure class="wall-poster sholay"><img src="assets/sholay.jpg" alt="Original Sholay cinema poster" width="891" height="1200"><span class="tape"></span><figcaption>A little old-school drama.</figcaption></figure>
+        <svg class="doodle arrow-doodle" viewBox="0 0 150 95" aria-hidden="true"><path d="M18 14c-12 39 27 54 82 42 29-6 32-19 15-20-18-2-12 28 10 40m-18-4 19 6-2-20"/><path d="M23 12c-8 41 23 46 55 43" opacity=".4"/></svg>
+        <div class="cinema-ticket" aria-hidden="true"><span>ADMIT ONE</span><b>the daily<br>picture show</b><i>SEAT 16 · ROW 04</i><div class="ticket-stub">FILMI / 001</div></div>
+        <svg class="doodle tiny-stars" viewBox="0 0 100 80" aria-hidden="true"><path d="m30 8 3 18 17 6-18 3-6 18-2-19-17-6 19-3Zm40 31 1 11 12 3-12 3-4 12-1-12-11-4 12-2Z"/></svg>
+      </aside>
+
+      <section class="game-shell" id="game" aria-label="Daily connections puzzle" tabindex="-1">
+        <div class="edition-bar"><div class="edition-date"><svg><use href="#i-calendar"/></svg><span id="puzzleDate">The daily picture puzzle</span></div><span class="edition-number" id="editionNumber">PREVIEW EDITION</span></div>
+        <div class="game-intro"><p>Find four films with something in common.</p><span class="board-note" aria-hidden="true">16 FILMS · 4 CONNECTIONS</span></div>
+        <div class="loading" id="loading">Setting the scene<span> · · ·</span></div>
+        <div class="solved-groups" id="solvedGroups" aria-label="Solved connections"></div>
+        <div class="board" id="board" role="group" aria-label="Select four film cards" aria-busy="true"></div>
+        <noscript><p class="load-error">Please enable JavaScript to play Filmi Connections.</p></noscript>
+        <div class="feedback-line"><p id="feedback" role="status" aria-live="polite">Pick any four. Find their common thread.</p><span id="selectionCount">0 / 4 selected</span></div>
+        <div class="game-actions"><div class="secondary-actions"><button id="shuffleButton" class="button button-light"><svg><use href="#i-shuffle"/></svg><span>Shuffle</span></button><button id="deselectButton" class="button button-light" disabled>Deselect</button></div><button id="submitButton" class="button button-primary" disabled><span>Make a connection</span><svg><use href="#i-arrow"/></svg></button></div>
+        <div class="retakes-row"><div class="retakes"><span>Retakes left</span><div id="retakeDots" class="retake-dots" role="img" aria-label="4 mistakes remaining"><i></i><i></i><i></i><i></i></div></div><span class="game-caption">Every film has a connection.</span></div>
+        <div id="resultSummary" class="result-summary" hidden><div><b id="resultHeading">That's a wrap!</b><span id="resultText"></span></div><button class="button button-primary" id="resultsButton">View results <svg><use href="#i-arrow"/></svg></button></div>
+        <div class="preview-note" id="previewNote" hidden><span class="preview-label">FIRST LOOK</span><p>A sample puzzle while the daily programme comes together.</p></div>
+        <div class="next-show"><svg><use href="#i-star"/></svg><span id="nextShowLabel">NEXT SHOW AT MIDNIGHT IST</span><time id="countdown">00:00:00</time></div>
+        <div class="storage-note" id="storageNote" role="status" hidden>Progress cannot be saved in this browser. You can still play this round.</div>
+      </section>
+
+      <aside class="margin-art right-art" aria-label="Bollywood sketchbook">
+        <svg class="doodle hero-sketch" viewBox="0 0 230 235" role="img" aria-label="Pencil sketch of a Bollywood hero with outstretched arms">
+          <path class="wash" d="M102 53c23-10 48 3 48 26l-5 26-46 1-9-29Z"/>
+          <g><path d="m102 57-3-12 5-16 14-8 19 6 9 13-2 19-6 14-15 7-12-9-9-14Z"/><path d="m101 43 11-3 9-14 4 10 16 5 3 9m-40-17 15-10 17 6M107 53l7-2m13 0 7 3m-15-1-2 10 6 1m-7 6 12-1"/><path d="m111 77-3 16 16 10 17-12-7-17M107 87l-19 10-21 5-29-5-23-14-7 9 26 21 38 11 31-5m38-31 21 13 25 1 25-17 12 4-1 9-30 20-26 2-25-6"/><path d="m102 94-9 46 10 28 43-2 2-24-8-50m-33 13 17 10 14-13m-15 12 1 45m-23-36 8 31m33-34-10 29m-26 20 2 21-10 37 14 4 17-45 8 44 14-3-4-59m-39 57-10 6v6l23-1 2-10m26-2 8 4 6 11-22-1-4-11"/><path d="m14 84-7-5-5 1 1 10 8 3m200-5 8-8 7 2-1 9-9 6M42 100l-4 10m153-11 6 10"/><path d="m100 57-4-10 5-18 17-10 20 6 10 18-2 18m-58 39-23 5-28-4-24-13m131 25 26 10 26-2 28-19m-114 66 42-1" opacity=".32"/></g>
+          <path d="m174 29 2 12 12 4-13 3-5 13-1-14-12-3 13-3Zm-117 7 2 9 9 3-10 2-3 10-1-11-9-2 10-3Z"/>
+        </svg>
+        <span class="handwritten sketch-note">main character<br>energy.</span>
+        <figure class="wall-poster ddlj"><img src="assets/ddlj.jpg" alt="Dilwale Dulhania Le Jayenge cinema poster" width="1081" height="1500" loading="lazy"><span class="tape"></span></figure>
+        <div class="film-caption"><span class="caption-line"></span> PICTURE ABHI BAAKI HAI.</div>
+      </aside>
+    </div>
+    <footer class="page-footer"><span>A small daily ritual for big cinema people.</span><button data-open="creditsDialog">From the poster wall <svg><use href="#i-arrow"/></svg></button></footer>
+  </main>
+
+  <dialog id="rulesDialog" class="modal"><div class="dialog-top"><span class="eyebrow">BEFORE THE FIRST TAKE</span><button class="icon-button close-dialog" aria-label="Close instructions"><svg><use href="#i-close"/></svg></button></div><h2>Here's the plot.</h2><p>Sixteen films are hiding four connections. Find all four to finish the show.</p><ol class="rules-list"><li><span>01</span><div><b>Pick four films.</b><p>They might share a director, a character name, a title pattern, or something a little less obvious.</p></div></li><li><span>02</span><div><b>Make the connection.</b><p>Submit your selection. A correct group reveals what brings the films together.</p></div></li><li><span>03</span><div><b>Mind your retakes.</b><p>You get four incorrect guesses. A “one film away” message means three of your choices belong together. Repeating a guess costs no retake.</p></div></li></ol><div class="difficulty-key"><span>More straightforward</span><div><i class="yellow"></i><i class="green"></i><i class="blue"></i><i class="purple"></i></div><span>More twisty</span></div><p class="fine-print">One fresh puzzle at midnight, India time. Your progress saves on this device. Use Enter to submit four selected cards.</p><button class="button button-primary full-width close-dialog">Roll camera <svg><use href="#i-arrow"/></svg></button></dialog>
+  <dialog id="statsDialog" class="modal"><div class="dialog-top"><span class="eyebrow">YOUR BOX OFFICE</span><button class="icon-button close-dialog" aria-label="Close statistics"><svg><use href="#i-close"/></svg></button></div><h2>A fine filmography.</h2><div class="stats-grid"><div><strong id="statPlayed">0</strong><span>Played</span></div><div><strong id="statWinRate">0%</strong><span>Win rate</span></div><div><strong id="statStreak">0</strong><span>Current streak</span></div><div><strong id="statBest">0</strong><span>Best streak</span></div></div><p class="fine-print">Statistics live on this device. Preview puzzles and archive plays don't affect your daily streak.</p><button class="button button-primary full-width close-dialog">Back to the show</button></dialog>
+  <dialog id="archiveDialog" class="modal"><div class="dialog-top"><span class="eyebrow">THE BACK CATALOGUE</span><button class="icon-button close-dialog" aria-label="Close archive"><svg><use href="#i-close"/></svg></button></div><h2>Missed a show?</h2><p>Catch up on an earlier edition.</p><div id="archiveList" class="archive-list"></div><button class="button button-primary full-width" id="todayButton">Back to today <svg><use href="#i-arrow"/></svg></button></dialog>
+  <dialog id="resultsDialog" class="modal results-modal"><div class="dialog-top"><span class="eyebrow" id="resultsEyebrow">THE END CREDITS</span><button class="icon-button close-dialog" aria-label="Close results"><svg><use href="#i-close"/></svg></button></div><div class="result-star" aria-hidden="true">✳</div><h2 id="resultsTitle">That's a wrap!</h2><p id="resultsDescription"></p><div id="shareGrid" class="share-grid" aria-label="Your guess history"></div><button class="button button-primary full-width" id="shareButton"><svg><use href="#i-copy"/></svg><span>Share your results</span></button><p id="shareStatus" role="status" aria-live="polite" class="fine-print"></p><label id="shareFallback" hidden>Copy your result<textarea id="shareText" readonly rows="7"></textarea></label><div class="results-next"><span>Another day. Another plot twist.</span><b>Midnight IST</b></div></dialog>
+  <dialog id="creditsDialog" class="modal"><div class="dialog-top"><span class="eyebrow">CINEMA, ON PAPER</span><button class="icon-button close-dialog" aria-label="Close poster credits"><svg><use href="#i-close"/></svg></button></div><h2>The poster wall.</h2><p>A little love for the art that made us fall in love with the films.</p><div class="credit-posters"><img src="assets/sholay.jpg" alt="Sholay poster" loading="lazy"><img src="assets/mughal-e-azam.jpg" alt="Mughal-e-Azam poster" loading="lazy"><img src="assets/ddlj.jpg" alt="Dilwale Dulhania Le Jayenge poster" loading="lazy"></div><ul class="credit-links"><li><a href="https://x.com/FHF_Official/status/1954039387911585897" target="_blank" rel="noopener noreferrer">Sholay · Film Heritage Foundation ↗</a></li><li><a href="https://www.mapinpub.com/products/indias-film-poster-heritage" target="_blank" rel="noopener noreferrer">Mughal-e-Azam · India's Film Poster Heritage ↗</a></li><li><a href="https://bollywoodirect.medium.com/22-years-of-dilwale-dulhania-le-jayenge-release-date-20-10-1995-e690a27141ec" target="_blank" rel="noopener noreferrer">DDLJ · BollywooDirect ↗</a></li></ul><p class="fine-print">Film artwork belongs to its respective rights holders.</p></dialog>
+  <script src="app.js" type="module"></script>
+</body>
+</html>
