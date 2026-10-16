@@ -212,3 +212,26 @@ h1 em{font-weight:400;color:var(--green)}
 .solved-group.purple {
   background: #B4E4D6 !important;
 }
+/* Difficulty 1 */
+.solved-group.yellow,
+#shareGrid .yellow {
+  background: #DE7272 !important;
+}
+
+/* Difficulty 2 */
+.solved-group.green,
+#shareGrid .green {
+  background: #FFCA88 !important;
+}
+
+/* Difficulty 3 */
+.solved-group.blue,
+#shareGrid .blue {
+  background: #FFF6A9 !important;
+}
+
+/* Difficulty 4 */
+.solved-group.purple,
+#shareGrid .purple {
+  background: #B4E4D6 !important;
+}
