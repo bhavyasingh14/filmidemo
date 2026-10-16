@@ -192,10 +192,23 @@ h1 em{font-weight:400;color:var(--green)}
 @media(max-width:920px){.ambient-cinema{display:block}}
 @media(max-width:680px){.board-note{font-size:6px;letter-spacing:.7px}.ambient-poster{width:98px;opacity:.15}.ambient-left{left:-56px;top:69px}.ambient-right{right:-55px;top:62px}}
 @media(max-width:380px){.board-note{display:none}}
-/* Solved-row colours: difficulty 1 to 4 */
-:root {
-  --yellow: #DE7272;        /* 1: red */
-  --solved-green: #FFCA88;  /* 2: orange */
-  --blue: #FFF6A9;          /* 3: yellow */
-  --purple: #B4E4D6;        /* 4: teal */
+
+/* Difficulty 1 */
+.solved-group.yellow {
+  background: ##DE7272 !important;
+}
+
+/* Difficulty 2 */
+.solved-group.green {
+  background: #FFCA88 !important;
+}
+
+/* Difficulty 3 */
+.solved-group.blue {
+  background: ##FFF6A9 !important;
+}
+
+/* Difficulty 4 */
+.solved-group.purple {
+  background: ##B4E4D6 !important;
 }
