@@ -168,6 +168,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-10-17",
+      "date": "2026-10-17",
+      "number": "003",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Hindi Superhero Movies",
+          "items": [
+            "Bhavesh Joshi",
+            "Krrish",
+            "Ra. One",
+            "A Flying Jatt"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Hindi Movies about College Life",
+          "items": [
+            "Mohabbatein",
+            "3 Idiots",
+            "Fukrey",
+            "Ishq Vishk"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Names of more than one Hindi Song",
+          "items": [
+            "Rasiya",
+            "Zinda",
+            "Tere Bin",
+            "Naina"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Movies where a dog is pivotal to the plot",
+          "items": [
+            "Hum Aapke Hain Koun",
+            "Entertainment",
+            "Dil Dhadakne Do",
+            "Chillar Party"
+          ]
+        }
+      ]
     }
   ]
 }
