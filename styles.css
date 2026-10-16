@@ -194,8 +194,8 @@ h1 em{font-weight:400;color:var(--green)}
 @media(max-width:380px){.board-note{display:none}}
 /* Solved-row colours: difficulty 1 to 4 */
 :root {
-  --red: #DE7272;        /* 1: soft gold */
-  --orange: #FFCA88;  /* 2: sage green */
-  --yellow: #FFF6A9;          /* 3: powder blue */
-  --teal: #B4E4D6;        /* 4: lilac */
+  --yellow: #DE7272;        /* 1: red */
+  --solved-green: #FFCA88;  /* 2: orange */
+  --blue: #FFF6A9;          /* 3: yellow */
+  --purple: #B4E4D6;        /* 4: teal */
 }
