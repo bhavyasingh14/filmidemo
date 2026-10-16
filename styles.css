@@ -192,3 +192,10 @@ h1 em{font-weight:400;color:var(--green)}
 @media(max-width:920px){.ambient-cinema{display:block}}
 @media(max-width:680px){.board-note{font-size:6px;letter-spacing:.7px}.ambient-poster{width:98px;opacity:.15}.ambient-left{left:-56px;top:69px}.ambient-right{right:-55px;top:62px}}
 @media(max-width:380px){.board-note{display:none}}
+/* Solved-row colours: difficulty 1 to 4 */
+:root {
+  --red: #DE7272;        /* 1: soft gold */
+  --orange: #FFCA88;  /* 2: sage green */
+  --yellow: #FFF6A9;          /* 3: powder blue */
+  --teal: #B4E4D6;        /* 4: lilac */
+}
