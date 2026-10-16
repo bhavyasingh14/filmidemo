@@ -195,7 +195,7 @@ h1 em{font-weight:400;color:var(--green)}
 
 /* Difficulty 1 */
 .solved-group.yellow {
-  background: ##DE7272 !important;
+  background: #DE7272 !important;
 }
 
 /* Difficulty 2 */
@@ -205,10 +205,10 @@ h1 em{font-weight:400;color:var(--green)}
 
 /* Difficulty 3 */
 .solved-group.blue {
-  background: ##FFF6A9 !important;
+  background: #FFF6A9 !important;
 }
 
 /* Difficulty 4 */
 .solved-group.purple {
-  background: ##B4E4D6 !important;
+  background: #B4E4D6 !important;
 }
