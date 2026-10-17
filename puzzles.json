@@ -219,6 +219,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-10-18",
+      "date": "2026-10-18",
+      "number": "004",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Makers of the Aashiqui 2 Album",
+          "items": [
+            "Arijit Singh",
+            "Mithoon",
+            "Irshad Kamil",
+            "Jeet Gannguli"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Kabir Khan Directorials",
+          "items": [
+            "New York",
+            "Ek Tha Tiger",
+            "83",
+            "Phantom"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Sports Biopics",
+          "items": [
+            "Bhaag Milkha Bhaag",
+            "Azhar",
+            "Chandu Champion",
+            "Mary Kom"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Places Bunny and Naina mention in their banter in YJHD",
+          "items": [
+            "Maratha Mandir",
+            "Wankhede",
+            "San Francisco",
+            "Paris"
+          ]
+        }
+      ]
     }
   ]
 }
