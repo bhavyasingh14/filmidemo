@@ -243,7 +243,7 @@
           "items": [
             "New York",
             "Ek Tha Tiger",
-            "Tubelight",
+            "83",
             "Phantom"
           ]
         },
@@ -254,7 +254,7 @@
           "items": [
             "Bhaag Milkha Bhaag",
             "Azhar",
-            "MS Dhoni: The Untold Story",
+            "Chandu Champion",
             "Mary Kom"
           ]
         },
@@ -267,6 +267,57 @@
             "Wankhede",
             "San Francisco",
             "Paris"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daily-2026-10-19",
+      "date": "2026-10-19",
+      "number": "005",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Movies based on short stories ",
+          "items": [
+            "Lootera",
+            "7 Khoon Maaf",
+            "Raincoat",
+            "Ek Thi Daayan"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Udit Narayan Songs",
+          "items": [
+            "Pehla Nasha",
+            "Main Yahaan Hoon",
+            "Ae Ajnabi",
+            "Jaadoo Teri Nazar"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Locations in Zindagi Na Milegi Dobara",
+          "items": [
+            "Barcelona",
+            "Buñol",
+            "Seville",
+            "Costa Brava"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Movies with Shared Titles",
+          "items": [
+            "Golmaal",
+            "Aankhen",
+            "Dostana",
+            "Baaghi"
           ]
         }
       ]

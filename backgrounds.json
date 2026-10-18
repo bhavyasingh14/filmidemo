@@ -20,23 +20,28 @@
       "source": "https://www.mapinpub.com/products/indias-film-poster-heritage"
     },
     {
-      "id": "deewar-poster-ee5adda7",
-      "src": "assets/Deewar Poster.jpg",
-      "alt": "Deewar Poster",
-      "source": "photos/deewar-poster-ee5adda7"
+      "id": "om-shanti-om-poster-b8dd4cc5",
+      "src": "photos/om-shanti-om-poster-b8dd4cc5.jpg",
+      "alt": "Om Shanti Om Poster",
+      "source": ""
     },
     {
-      "id": "hum-aapke-hai-kaun-poster-6ed81831",
-      "src": "assets/Hum_aapke_hain_kaun poster.jpg",
-      "alt": "Hum aapke hai kaun poster",
-      "source": "hum-aapke-hai-kaun-poster-6ed81831"
+      "id": "pyaasa-poster-f66252a5",
+      "src": "photos/pyaasa-poster-f66252a5.jpg",
+      "alt": "Pyaasa Poster",
+      "source": ""
     }
   ],
   "schedule": [
     {
-      "date": "2026-10-16",
-      "left": "hum-aapke-hai-kaun-poster-6ed81831",
-      "right": "deewar-poster-ee5adda7"
+      "date": "2026-10-19",
+      "left": "pyaasa-poster-f66252a5",
+      "right": "om-shanti-om-poster-b8dd4cc5"
+    },
+    {
+      "date": "2026-10-18",
+      "left": "mughal-e-azam",
+      "right": "sholay"
     }
   ]
 }
