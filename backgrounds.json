@@ -18,28 +18,16 @@
       "src": "photos/mughal-e-azam.jpg",
       "alt": "Mughal-e-Azam cinema poster",
       "source": "https://www.mapinpub.com/products/indias-film-poster-heritage"
-    },
-    {
-      "id": "om-shanti-om-poster-b8dd4cc5",
-      "src": "photos/om-shanti-om-poster-b8dd4cc5.jpg",
-      "alt": "Om Shanti Om Poster",
-      "source": ""
-    },
-    {
-      "id": "pyaasa-poster-f66252a5",
-      "src": "photos/pyaasa-poster-f66252a5.jpg",
-      "alt": "Pyaasa Poster",
-      "source": ""
     }
   ],
   "schedule": [
     {
-      "date": "2026-10-19",
-      "left": "pyaasa-poster-f66252a5",
-      "right": "om-shanti-om-poster-b8dd4cc5"
+      "date": "2026-10-18",
+      "left": "mughal-e-azam",
+      "right": "sholay"
     },
     {
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "left": "mughal-e-azam",
       "right": "sholay"
     }

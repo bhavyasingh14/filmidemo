@@ -321,6 +321,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-10-20",
+      "date": "2026-10-20",
+      "number": "006",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Imtiaz Ali Directorials",
+          "items": [
+            "Jab We Met",
+            "Love Aaj Kal",
+            "Rockstar",
+            "Tamasha"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Madhuri Dixit Films",
+          "items": [
+            "Devdas",
+            "Tezaab",
+            "Beta",
+            "Saajan"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Components of the Student of the Year Competition",
+          "items": [
+            "Quiz Test",
+            "Treasure Hunt",
+            "Dance Battle",
+            "Triathlon"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Mentioned at the beginning of Dil Ke Taj Mahal Mein",
+          "items": [
+            "Madhubala",
+            "Zohra-jabeen",
+            "Apsara",
+            "Hoor Pari"
+          ]
+        }
+      ]
     }
   ]
 }
