@@ -1,11 +1,165 @@
 {
   "timezone": "Asia/Kolkata",
-  "startDate": "2026-10-15",
   "puzzles": [
     {
-      "id": "001",
-      "number": "001",
-      "date": "2026-10-15",
+      "id": "daily-2026-10-20-r1",
+      "date": "2026-10-20",
+      "round": 1,
+      "number": "",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Gangs of Wasseypur Characters",
+          "items": [
+            "Faizal",
+            "Sardar",
+            "Nagma",
+            "Mohsina"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Music Composer Duos ",
+          "items": [
+            "Vishal-Shekhar",
+            "Salim-Suleiman",
+            "Sachet-Parampara",
+            "Samuel-Akanksha"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Hindi Movie Titles with Numbers",
+          "items": [
+            "Hum Dono",
+            "3 Idiots",
+            "Ek Villain",
+            "Paanch"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Important Locations in Rockstar",
+          "items": [
+            "Nizamuddin Dargah",
+            "Hindu College",
+            "Prague",
+            "Kashmir"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daily-2026-10-20-r2",
+      "date": "2026-10-20",
+      "round": 2,
+      "number": "",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Characters in Sholay",
+          "items": [
+            "Jai",
+            "Veeru",
+            "Radha",
+            "Basanti"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Rajkummar Rao Films",
+          "items": [
+            "Shahid",
+            "Behen Hogi Teri",
+            "Shaadi Mein Zaroor Aana",
+            "Trapped"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Debutants in Imtiaz Ali Films ",
+          "items": [
+            "Abhay Deol",
+            "Ayesha Takia",
+            "Nagris Fakhri",
+            "Giselli Monteiro"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Mentioned in Fevicol Se",
+          "items": [
+            "Tandoori Murgi",
+            "Angoor ki Daughter",
+            "Namkeen Butter",
+            "Missed Call"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daily-2026-10-20-r3",
+      "date": "2026-10-20",
+      "round": 3,
+      "number": "",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Tiger Shroff Films",
+          "items": [
+            "Heropanti",
+            "Baaghi 2",
+            "War",
+            "Bade Miyan Chhote Miyan"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Films where SRK Played a Double Role",
+          "items": [
+            "Karan Arjun",
+            "Paheli",
+            "Jawaan",
+            "Fan"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Stage Names",
+          "items": [
+            "Akshay Kumar",
+            "Madhubala",
+            "Johny Walker",
+            "Meena Kumari"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Food Items in Andaz Apna Apna",
+          "items": [
+            "Kali Mirch Ke Laddoo",
+            "Karela Soup",
+            "Mirchi Salad",
+            "Ghode Ka Julab"
+          ]
+        }
+      ]
+    }
+  ],
+  "previewRounds": [
+    {
       "title": "The opening show",
       "groups": [
         {
@@ -116,12 +270,11 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "sample-round-1",
+      "round": 1
     },
     {
-      "id": "daily-2026-10-16",
-      "date": "2026-10-16",
-      "number": "002",
       "groups": [
         {
           "id": "group-1",
@@ -167,211 +320,9 @@
             "Gulaabs"
           ]
         }
-      ]
-    },
-    {
-      "id": "daily-2026-10-17",
-      "date": "2026-10-17",
-      "number": "003",
-      "groups": [
-        {
-          "id": "group-1",
-          "difficulty": 1,
-          "name": "Hindi Superhero Movies",
-          "items": [
-            "Bhavesh Joshi",
-            "Krrish",
-            "Ra. One",
-            "A Flying Jatt"
-          ]
-        },
-        {
-          "id": "group-2",
-          "difficulty": 2,
-          "name": "Hindi Movies about College Life",
-          "items": [
-            "Mohabbatein",
-            "3 Idiots",
-            "Fukrey",
-            "Ishq Vishk"
-          ]
-        },
-        {
-          "id": "group-3",
-          "difficulty": 3,
-          "name": "Names of more than one Hindi Song",
-          "items": [
-            "Rasiya",
-            "Zinda",
-            "Tere Bin",
-            "Naina"
-          ]
-        },
-        {
-          "id": "group-4",
-          "difficulty": 4,
-          "name": "Movies where a dog is pivotal to the plot",
-          "items": [
-            "Hum Aapke Hain Koun",
-            "Entertainment",
-            "Dil Dhadakne Do",
-            "Chillar Party"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "daily-2026-10-18",
-      "date": "2026-10-18",
-      "number": "004",
-      "groups": [
-        {
-          "id": "group-1",
-          "difficulty": 1,
-          "name": "Makers of the Aashiqui 2 Album",
-          "items": [
-            "Arijit Singh",
-            "Mithoon",
-            "Irshad Kamil",
-            "Jeet Gannguli"
-          ]
-        },
-        {
-          "id": "group-2",
-          "difficulty": 2,
-          "name": "Kabir Khan Directorials",
-          "items": [
-            "New York",
-            "Ek Tha Tiger",
-            "83",
-            "Phantom"
-          ]
-        },
-        {
-          "id": "group-3",
-          "difficulty": 3,
-          "name": "Sports Biopics",
-          "items": [
-            "Bhaag Milkha Bhaag",
-            "Azhar",
-            "Chandu Champion",
-            "Mary Kom"
-          ]
-        },
-        {
-          "id": "group-4",
-          "difficulty": 4,
-          "name": "Places Bunny and Naina mention in their banter in YJHD",
-          "items": [
-            "Maratha Mandir",
-            "Wankhede",
-            "San Francisco",
-            "Paris"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "daily-2026-10-19",
-      "date": "2026-10-19",
-      "number": "005",
-      "groups": [
-        {
-          "id": "group-1",
-          "difficulty": 1,
-          "name": "Movies based on short stories ",
-          "items": [
-            "Lootera",
-            "7 Khoon Maaf",
-            "Raincoat",
-            "Ek Thi Daayan"
-          ]
-        },
-        {
-          "id": "group-2",
-          "difficulty": 2,
-          "name": "Udit Narayan Songs",
-          "items": [
-            "Pehla Nasha",
-            "Main Yahaan Hoon",
-            "Ae Ajnabi",
-            "Jaadoo Teri Nazar"
-          ]
-        },
-        {
-          "id": "group-3",
-          "difficulty": 3,
-          "name": "Locations in Zindagi Na Milegi Dobara",
-          "items": [
-            "Barcelona",
-            "Buñol",
-            "Seville",
-            "Costa Brava"
-          ]
-        },
-        {
-          "id": "group-4",
-          "difficulty": 4,
-          "name": "Movies with Shared Titles",
-          "items": [
-            "Golmaal",
-            "Aankhen",
-            "Dostana",
-            "Baaghi"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "daily-2026-10-20",
-      "date": "2026-10-20",
-      "number": "006",
-      "groups": [
-        {
-          "id": "group-1",
-          "difficulty": 1,
-          "name": "Imtiaz Ali Directorials",
-          "items": [
-            "Jab We Met",
-            "Love Aaj Kal",
-            "Rockstar",
-            "Tamasha"
-          ]
-        },
-        {
-          "id": "group-2",
-          "difficulty": 2,
-          "name": "Madhuri Dixit Films",
-          "items": [
-            "Devdas",
-            "Tezaab",
-            "Beta",
-            "Saajan"
-          ]
-        },
-        {
-          "id": "group-3",
-          "difficulty": 3,
-          "name": "Components of the Student of the Year Competition",
-          "items": [
-            "Quiz Test",
-            "Treasure Hunt",
-            "Dance Battle",
-            "Triathlon"
-          ]
-        },
-        {
-          "id": "group-4",
-          "difficulty": 4,
-          "name": "Mentioned at the beginning of Dil Ke Taj Mahal Mein",
-          "items": [
-            "Madhubala",
-            "Zohra-jabeen",
-            "Apsara",
-            "Hoor Pari"
-          ]
-        }
-      ]
+      ],
+      "id": "sample-round-2",
+      "round": 2
     }
   ]
 }
