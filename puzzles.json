@@ -423,6 +423,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-10-22",
+      "date": "2026-10-22",
+      "number": "008",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "A.R. Rahman Musicals ",
+          "items": [
+            "Roja",
+            "Dil Se",
+            "Lagaan",
+            "Tamasha"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Movies with Places in the Title ",
+          "items": [
+            "Delhi-6",
+            "Madras Cafe",
+            "Bombay Talkies",
+            "Kurukshetra"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Bollywood Films with Twins",
+          "items": [
+            "Do Patti",
+            "Chaalbaaz",
+            "Dhoom 3",
+            "Kaminey"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Things Farhan Akhtar lost in Pichle Saat Dinon Mein",
+          "items": [
+            "A half-read novel",
+            "Two passes of a one-day match",
+            "A girl's phone number",
+            "New sunglasses"
+          ]
+        }
+      ]
     }
   ]
 }
