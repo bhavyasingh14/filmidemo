@@ -474,6 +474,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-10-23",
+      "date": "2026-10-23",
+      "number": "009",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Gangs of Wasseypur Characters",
+          "items": [
+            "Faizal",
+            "Sardar",
+            "Nagma",
+            "Mohsina"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Rajkummar Rao Films",
+          "items": [
+            "Shahid",
+            "Bareilly Ki Barfi",
+            "Shaadi Mein Zaroor Aana",
+            "Stree"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Hindi Movie Titles with Numbers",
+          "items": [
+            "Ek Villain",
+            "Hum Dono",
+            "3 Idiots",
+            "Paanch"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Food Items in Andaz Apna Apna",
+          "items": [
+            "Kali Mirch Ke Laddoo",
+            "Karela Soup",
+            "Mirchi Salad",
+            "Ghode Ka Julab"
+          ]
+        }
+      ]
     }
   ]
 }
