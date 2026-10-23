@@ -496,7 +496,7 @@
           "difficulty": 2,
           "name": "Rajkummar Rao Films",
           "items": [
-            "Srikanth",
+            "Shahid",
             "Bareilly Ki Barfi",
             "Shaadi Mein Zaroor Aana",
             "Stree"
@@ -522,6 +522,57 @@
             "Karela Soup",
             "Mirchi Salad",
             "Ghode Ka Julab"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daily-2026-10-24",
+      "date": "2026-10-24",
+      "number": "010",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Farah Khan Directorials",
+          "items": [
+            "Om Shanti Om",
+            "Tees Maar Khan",
+            "Happy New Year",
+            "Main Hoon Na"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Ensemble Films",
+          "items": [
+            "Dil Dhadakne Do",
+            "Kabhi Khushi Kabhie Gham",
+            "Amar Akbar Anthony",
+            "Ramprasad Ki Tehrvi"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Movies Shot in Goa",
+          "items": [
+            "Dil Chahta Hai",
+            "Dear Zindagi",
+            "Golmaal Returns",
+            "Go Goa Gone"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Songs with Colours in the Title",
+          "items": [
+            "Grey Wala Shade",
+            "Kesariya",
+            "Kala Chashma",
+            "Gulabi"
           ]
         }
       ]
