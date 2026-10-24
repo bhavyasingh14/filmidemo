@@ -576,6 +576,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-10-25",
+      "date": "2026-10-25",
+      "number": "011",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Pritam and KK Songs",
+          "items": [
+            "Tu Hi Meri Shab Hai",
+            "Alvida",
+            "Zara Sa",
+            "Dil Ibadat"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Ayushmann Khurrana Social Comedies",
+          "items": [
+            "Badhaai Ho",
+            "Shubh Mangal Saavdhan",
+            "Dream Girl",
+            "Chandigarh Kare Aashiqui"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Actresses who played Geeta and Babita in Dangal",
+          "items": [
+            "Fatima Sana Sheikh",
+            "Sanya Malhotra",
+            "Zaira Wasim",
+            "Suhani Bhatnagar"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Films where Akshaye Khanna has played an investigating officer",
+          "items": [
+            "Drishyam 2",
+            "Ittefaq",
+            "36 China Town",
+            "Mom"
+          ]
+        }
+      ]
     }
   ]
 }
