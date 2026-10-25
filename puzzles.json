@@ -627,6 +627,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-10-26",
+      "date": "2026-10-26",
+      "number": "012",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Raveena Tandon Songs (It's her birthday today)",
+          "items": [
+            "Kisi Disco Mein Jaaye",
+            "Ankhiyon Se Goli Maare",
+            "Tip Tip Barsa Paani",
+            "Tu Cheez Badi Hai Mast Mast"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Kangana Ranaut Movies",
+          "items": [
+            "Gangster",
+            "Queen",
+            "Tanu Weds Manu",
+            "Thalaivi"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Debutants in Mohabbatein",
+          "items": [
+            "Uday Chopra",
+            "Shamita Shetty",
+            "Kim Sharma",
+            "Jugal Hansraj"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Films with Characters named Kabir",
+          "items": [
+            "War",
+            "Kabir Singh",
+            "Chak De! India",
+            "Yeh Jawaani Hai Deewani"
+          ]
+        }
+      ]
     }
   ]
 }
