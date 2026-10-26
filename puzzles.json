@@ -678,6 +678,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-10-27",
+      "date": "2026-10-27",
+      "number": "013",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Varun Dhawan-Alia Bhatt Movies",
+          "items": [
+            "⁠Student of the Year",
+            "Badrinath ki Dulhania",
+            "Humpty Sharma ki Dulhania",
+            "Kalank"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Anurag Kashyap Directorials",
+          "items": [
+            "⁠⁠Black Friday",
+            "Dev.D",
+            "Gulaal",
+            "Bombay Velvet"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Characters from Fukrey",
+          "items": [
+            "Hunny",
+            "Choocha",
+            "Zafar",
+            "Lali"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Part of the Rohit Shetty Cop Universe",
+          "items": [
+            "Singham",
+            "Simmba",
+            "Sooryavanshi",
+            "Indian Police Force"
+          ]
+        }
+      ]
     }
   ]
 }
