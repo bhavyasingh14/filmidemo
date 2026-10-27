@@ -729,6 +729,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-10-28",
+      "date": "2026-10-28",
+      "number": "014",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Vishal Bhardwaj Directorials ",
+          "items": [
+            "Maqbool",
+            "Omkara",
+            "Haider",
+            "O'Romeo"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Sidharth Malhotra Movies ",
+          "items": [
+            "Ek Villain",
+            "Brothers",
+            "Shershaah",
+            "A Gentleman"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": " Locations in Dard-E-Disco",
+          "items": [
+            "London",
+            "Paris",
+            "New York",
+            "Los Angeles"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Hindi Movie Title Minus one letter",
+          "items": [
+            "Barf",
+            "Drishya",
+            "Bothers",
+            "Wecome"
+          ]
+        }
+      ]
     }
   ]
 }
