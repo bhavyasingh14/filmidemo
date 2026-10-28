@@ -780,6 +780,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-10-29",
+      "date": "2026-10-29",
+      "number": "015",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "David Dhawan - Govinda Movies",
+          "items": [
+            "Bade Miyan Chhote Miyan",
+            "Partner",
+            "Coolie No. 1",
+            "Hero No. 1"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Movies with Salman Khan Cameos ",
+          "items": [
+            "Kuch Kuch Hota Hai",
+            "Ajab Prem Ki Ghazab Kahaani",
+            "Tees Maar Khan",
+            "Son of Sardaar"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Pageant Winners who became actresses",
+          "items": [
+            "Dia Mirza",
+            "Priyanka Chopra",
+            "Lara Dutta",
+            "Sushmita Sen"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Movies with Stand Up Comics",
+          "items": [
+            "Jab Tak Hai Jaan",
+            "Baar Baar Dekho",
+            "Tu Jhoothi Main Makkaar",
+            "Mr. X"
+          ]
+        }
+      ]
     }
   ]
 }
