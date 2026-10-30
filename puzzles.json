@@ -882,6 +882,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-10-31",
+      "date": "2026-10-31",
+      "number": "017",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Rekha-Amitabh Bachchan Movies",
+          "items": [
+            "Silsila",
+            "Mr. Natwarlal",
+            "Muqaddar ka Sikandar",
+            "Suhaag"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Movies with SRK in a Negative Role",
+          "items": [
+            "Baazigar",
+            "Darr",
+            "Anjaam",
+            "Ram Jaane"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Movies ft. Siddhant Chaturvedi",
+          "items": [
+            "Gully Boy",
+            "Gehraaiyaan",
+            "Dhadak 2",
+            "Phone Bhoot"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Hijack/Aviation Thrillers",
+          "items": [
+            "Neerja",
+            "Yodha",
+            "Chor Nikal ke Bhaga",
+            "Zameen"
+          ]
+        }
+      ]
     }
   ]
 }
